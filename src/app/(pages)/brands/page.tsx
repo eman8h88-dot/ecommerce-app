@@ -1,3 +1,6 @@
+
+export const dynamic = "force-dynamic";
+
 import BrandsMain from '@/app/_componanets/BrandsMain/BrandsMain';
 import React from 'react'
 

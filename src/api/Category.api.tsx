@@ -1,4 +1,4 @@
-
+export const dynamic = "force-dynamic";
 export const getCatogry = async () => {
   try {
     const response = await fetch(

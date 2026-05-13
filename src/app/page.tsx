@@ -1,3 +1,5 @@
+
+export const dynamic = "force-dynamic";
 import Image from "next/image";
 import Mainslider from "./_componanets/Mainslider/Mainslider";
 import CategorySlider from "./_componanets/CategorySlider/CategorySlider";
